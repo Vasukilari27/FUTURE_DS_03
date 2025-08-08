@@ -1,0 +1,11 @@
+Name,Department,Event Name,Rating,Comments,Sentiment
+Ayesha Khan,CSE,Tech Fest,5,The event was very informative and fun.,Positive
+Rohit Sharma,ECE,Workshop,3,"It was okay, could have been more interactive.",Positive
+Sneha Reddy,EEE,Seminar,4,Great speakers and topics.,Positive
+Karan Verma,ME,Tech Fest,2,"Not well organized, very chaotic.",Positive
+Pooja Nair,IT,Cultural Night,5,Amazing performances! Thoroughly enjoyed.,Positive
+Arjun Das,CSE,Hackathon,1,The event started late and was poorly managed.,Negative
+Meera Iyer,ECE,Seminar,4,Useful insights and great content.,Positive
+Rahul Joshi,CIVIL,Workshop,3,"Average, nothing new was shared.",Negative
+Divya Rao,CSE,Cultural Night,5,Best event of the year! Loved it.,Positive
+Tarun Mehta,ME,Hackathon,2,Needed better coordination and time planning.,Positive
